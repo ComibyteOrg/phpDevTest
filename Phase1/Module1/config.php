@@ -1,2 +1,2 @@
 <?php 
-    $config_db = "OlddbDefault";
+    $config_db = "production_db"; 
